@@ -3,7 +3,7 @@ This repository contains python scripts for computer vision algorithms implement
 
 
 The project is structured into five components,jupiter notebooks contain additional information about some of the math and details of implementations:-
-## 1-CV-A01: Images, Filters, Histograms, Gradients, Frequency
+## 1-CV-a01: Images, Filters, Histograms, Gradients, Frequency
 
 ### Objectives
 - Filtration of noisy images using low pass filters such as: average, Gaussian, median.
@@ -12,18 +12,18 @@ The project is structured into five components,jupiter notebooks contain additio
 - Frequency domain filters.
 - Hybrid images.
 
-## 2-CV-A02: Hough tranforms. active contours
+## 2-CV-a02: Hough tranforms. active contours
 ### Objectives
 * Apply Hough transform for detecting parametric shapes like circles and lines
 * Apply Active Contour Model for semi-supervised shape delineation.
 
-## 3-CV-A03 feature extraction and matching, and corner detection
+## 3-CV-a03 feature extraction and matching, and corner detection
 ### Objectives
 * SIFT feature extraction
 * Apply Harris operator and Lamda- for detecting corners.
 * feature matching using SSD, NCC
 
- ## 4-CV-A04: Image segmentation, and thresholding
+ ## 4-CV-a04: Image segmentation, and thresholding
 ### Objectives
 * Thresholding(Otsu, local, optimum)
 * Segmentation (Kmeans, agglomerative, region_growing, mean_shift)
